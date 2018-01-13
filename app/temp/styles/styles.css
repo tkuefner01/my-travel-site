@@ -551,6 +551,10 @@ img {
 	}
 	}
 
+.btn--red{
+		background-color: #red;
+	}
+
 .wrapper{
 	padding-left: 18px;
 	padding-right: 18px;

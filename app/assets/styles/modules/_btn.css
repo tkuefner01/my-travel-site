@@ -16,4 +16,8 @@
 			font-size: 1.25rem;
 		}
 	}
+
+	&--red{
+		background-color: $mainRed;
+	}
 }
